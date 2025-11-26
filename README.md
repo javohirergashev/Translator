@@ -25,12 +25,22 @@ The API supports a wide range of language pairs and returns JSON responses with:
 
 ## Project Structure
 Translator/
+
 ├── api/
+
 │   ├── translator.py
+
 │   ├── test.py
+
 ├── frontend/
+
 │   ├── src/
+
 │   ├── package.json
+
 ├── README.md
+
 ├── .gitignore
+
 ├── requirements.txt
+
