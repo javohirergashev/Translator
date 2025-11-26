@@ -24,16 +24,24 @@ The API supports a wide range of language pairs and returns JSON responses with:
 - **Deployment:** Vercel
 
 ## Project Structure
-Translator/
 
 Translator/
+
 |-- api/
-│   |-- translator.py
-│   |-- test.py
+
+│---- translator.py
+
+│---- test.py
+
 |-- frontend/
-│   |-- src/
-│   |-- package.json
+
+│----- src/
+
+│----- package.json
+
 |-- README.md
+
 |-- .gitignore
+
 |-- requirements.txt
 
